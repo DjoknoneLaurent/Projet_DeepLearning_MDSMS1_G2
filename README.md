@@ -25,19 +25,6 @@ Objectifs du projet
 6. Tester le modèle sur des images individuelles et analyser les erreurs via une matrice de confusion.
 
 
-Structure du projet:
-
-
-Projet_DeepLearning/
-│
-├── dataset/                  : Données brutes classées par personne (non incluses sur GitHub)
-├── processed_data/            : Images prétraitées et normalisées (non incluses)
-├── Projet_DeepLearning.ipynb  : Notebook principal Google Colab
-├── modele_visage.h5           : Modèle CNN sauvegardé (si <100 Mo)
-├── requirements.txt           : Dépendances Python
-├── .gitignore                 : Fichiers à exclure du dépôt
-└── README.md                  : Documentation du projet
-
 
 Technologies et bibliothèques utilisées
 
