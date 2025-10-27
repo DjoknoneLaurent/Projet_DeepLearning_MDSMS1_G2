@@ -4,7 +4,8 @@ Projet de Deep Learning (Reconnaissance Faciale - MDSMS12025 G2)
 
 
 Master Data Science & Modélisation Statistique (MDSMS1 – Groupe 2)
-Encadrant : [MELATAGIA YONTA Paulin]
+
+Encadrant : MELATAGIA YONTA Paulin
 Auteurs :DJOKNONE Laurent, EKWANE Franck, MATSING MEVOUNGOU Orlane, OTABELA ANGAYENE Stéphane
 
 
