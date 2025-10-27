@@ -153,7 +153,7 @@ En résumé, notre modèle atteint une performance moyenne mais prometteuse (≈
 
 Chargement d’une image au hasard :
 
-python:img = cv2.imread("processed_data/DJOKNONE/laurent_1.jpg")
+python:img = cv2.imread("processed_data/DJOKNONE/laurent_3.jpg")
 
 Le modèle prédit la classe correspondante et affiche :
 
