@@ -33,7 +33,7 @@ TensorFlow / Keras
 OpenCV
 NumPy
 Matplotlib
-Scikit-learn**
+Scikit-learn
 TQDM
 
 
