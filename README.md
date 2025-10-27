@@ -128,14 +128,7 @@ python: test_eval = model.evaluate(X_test, y_test, verbose=0)
 
 
 Sortie :
-
-=====================================
-      ÉVALUATION DU MODÈLE CNN
-=====================================
- Test Loss (fonction de perte)     : 2.2245
- Test Accuracy (précision globale) : 67.57%
-=====================================
- Modèle encore faible : pense à ajouter plus de données ou à ajuster les hyperparamètres.
+ ÉVALUATION DU MODÈLE CNN, Test Loss (fonction de perte): 2.2245, Test Accuracy (précision globale) : 67.57%, Modèle encore faible : pense à ajouter plus de données ou à ajuster les hyperparamètres.
 
 
 Interprétation automatique :
