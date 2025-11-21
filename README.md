@@ -7,7 +7,7 @@ Master Data Science & Modélisation Statistique (MDSMS1 – Groupe 2)
 
 Encadrant : MELATAGIA YONTA Paulin
 
-Auteurs :DJOKNONE Laurent, EKWANE Franck, MATSING MEVOUNGOU Orlane, OTABELA ANGAYENE Stéphane
+Auteur :DJOKNONE Laurent 
 
 
 Résumé du projet
